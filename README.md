@@ -13,7 +13,7 @@ Feed zawiera następujące elementy GTFS:
 - Route Colors (routes.txt)
 - Headsigns (routes.txt)
 - Stops Wheelchair Accessibility (stops.txt, *UWAGA: dane o dostępności przystanków są subiektywne i mogą okazać się błędne.)
-- Trips Wheelchair Accessibility (trips.txt *Uwaga: dane o dostępności kursów zostały ustalone na podstawie informacji, że 100% obecnie eksploatowanego taboru stanowią pojazdy niskowejściowe lub niskopodłogowe)
+- Trips Wheelchair Accessibility (trips.txt *UWAGA: dane o dostępności kursów zostały ustalone na podstawie informacji, że 100% obecnie eksploatowanego taboru stanowią pojazdy niskowejściowe lub niskopodłogowe)
 - Fares V1 (stops.txt, fare_attributes.txt, fare_rules.txt)
   
 ## Dokładność lokalizacji przystanków
