@@ -1,0 +1,5 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+M_JEDEN,4.00,PLN,1,0,
+M1_JEDEN,5.00,PLN,1,0,
+M_5H,6.00,PLN,1,99,18000
+M1_5H,7.00,PLN,1,99,18000

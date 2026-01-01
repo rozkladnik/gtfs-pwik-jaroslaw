@@ -1,0 +1,7 @@
+fare_id,origin_id,destination_id
+M_JEDEN,miejska,miejska
+M_5H,miejska,miejska
+M1_JEDEN,miejska,1
+M1_5H,miejska,1
+M1_JEDEN,1,miejska
+M1_5H,1,miejska

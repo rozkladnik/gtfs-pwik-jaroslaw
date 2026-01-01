@@ -1,0 +1,8 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0,PWIK_JAR,0,"os. Piłsudskiego - Zbożowa",3,ED1A39,FFFFFF
+8,PWIK_JAR,8,"Kr. Jadwigi - Stawki",3,F68E1E,FFFFFF
+9,PWIK_JAR,9,"Poniatowskiego - Grunwaldzka",3,E8A622,FFFFFF
+10,PWIK_JAR,10,"Kr. Jadwigi - Kostków",3,108441,FFFFFF
+14,PWIK_JAR,14,"Kr. Jadwigi - Misztale",3,22439C,FFFFFF
+15,PWIK_JAR,15,"Krakowska - Sanowa",3,862990,FFFFFF
+16,PWIK_JAR,16,"Zbożowa - Zbożowa",3,CE4895,FFFFFF
