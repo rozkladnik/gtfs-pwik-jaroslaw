@@ -1,2 +1,2 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,fare_url
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_fare_url
 PWIK_JAR,"Przedsiębiorstwo Wodociągów i Kanalizacji w Jarosławiu Sp. z o.o.",https://pwik-jaroslaw.pl/,Europe/Warsaw,pl,https://pwik-jaroslaw.pl/taryfa-oplat/

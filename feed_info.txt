@@ -1,2 +1,2 @@
 ﻿feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version
-Rozkładnik,https://github.com/rozkladnik/,pl,pl,20250805,20260531,"1.0"
+Rozkładnik,https://github.com/rozkladnik/,pl,pl,20250805,20260531,"1.0.1"
