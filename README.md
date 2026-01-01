@@ -31,7 +31,7 @@ Pole to ma charakter pomocniczy, służy wyłącznie do ułatwienia tworzenia i 
 Dane zawarte w feedzie są aktualne i poprawne na dzień publikacji. Obowiązują do dnia 31 maja 2026 r., o ile wcześniej nie nastąpi zmiana rozkładu jazdy.
 
 ## Dokładność danych
-Uwaga! Część danych została wygenerowana automatycznie. Ze względu na ich ilość, niemożliwe jest ich ręczne przejrzenie. Feed jest udostępniany „tak jak jest” (as is), a jego autor nie ponosi odpowiedzialności za ich kompletność, aktualnośćani poprawność.
+Uwaga! Część danych została wygenerowana automatycznie. Ze względu na ich ilość, niemożliwe jest ich ręczne przejrzenie. Feed jest udostępniany „tak jak jest” (as is), a jego autor nie ponosi odpowiedzialności za ich kompletność, aktualność ani poprawność.
 
 ## Status prawny
 Dane zawarte w tym repozytorium stanowią ponowne wykorzystanie informacji publicznej. Zostały opracowane ręcznie na podstawie dostępnych publicznie rozkładów jazdy.
