@@ -30,11 +30,11 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible
 0,DW,L0_DW_0_29,Zbożowa,0,1
 0,DW,L0_DW_0_30,Zbożowa,0,1
 0,DW,L0_DW_0_31,Zbożowa,0,1
-0,DW,L0_DW_0_32,Zbożowa,0,1
+0,DW,L0_DW_0_32,Zbożowa przez Krakowską,0,1
 0,DW,L0_DW_0_33,Zbożowa,0,1
 0,DW,L0_DW_0_34,Zbożowa,0,1
 0,DW,L0_DW_0_35,Zbożowa,0,1
-0,DW,L0_DW_0_36,Zbożowa,0,1
+0,DW,L0_DW_0_36,Zbożowa przez Krakowską,0,1
 0,DW,L0_DW_0_37,Zbożowa,0,1
 0,DW,L0_DW_0_38,Zbożowa,0,1
 0,POW,L0_POW_1_39,Piłsudskiego,1,1
@@ -67,12 +67,12 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible
 0,SOB,L0_SOB_1_66,Piłsudskiego,1,1
 0,DW,L0_DW_1_67,Piłsudskiego,1,1
 0,DW,L0_DW_1_68,Piłsudskiego,1,1
-0,DW,L0_DW_1_69,Piłsudskiego,1,1
+0,DW,L0_DW_1_69,Piłsudskiego przez Krakowską,1,1
 0,DW,L0_DW_1_70,Piłsudskiego,1,1
-0,DW,L0_DW_1_71,Piłsudskiego,1,1
+0,DW,L0_DW_1_71,Piłsudskiego ,1,1
 0,DW,L0_DW_1_72,Piłsudskiego,1,1
 0,DW,L0_DW_1_73,Piłsudskiego,1,1
-0,DW,L0_DW_1_74,Piłsudskiego,1,1
+0,DW,L0_DW_1_74,Piłsudskiego przez Krakowską,1,1
 0,DW,L0_DW_1_75,Piłsudskiego,1,1
 0,DW,L0_DW_1_76,Piłsudskiego,1,1
 0,DW,L0_DW_1_77,Piłsudskiego,1,1
@@ -113,20 +113,20 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible
 8,NIE,L8_NIE_1_112,Kr. Jadwigi,1,1
 9,POW,L9_POW_0_113,Poniatowskiego,0,1
 9,POW,L9_POW_0_114,Poniatowskiego,0,1
-9,POW,L9_POW_0_115,Poniatowskiego,0,1
-9,POW,L9_POW_0_116,Jana Pawła II,0,1
-9,POW,L9_POW_0_117,Poniatowskiego,0,1
-9,POW,L9_POW_0_118,Poniatowskiego,0,1
-9,POW,L9_POW_0_119,Poniatowskiego,0,1
-9,POW,L9_POW_0_120,Poniatowskiego,0,1
-9,POW,L9_POW_0_121,Poniatowskiego,0,1
-9,POW,L9_POW_0_122,Poniatowskiego,0,1
-9,POW,L9_POW_0_123,Poniatowskiego,0,1
-9,POW,L9_POW_0_124,Poniatowskiego,0,1
-9,POW,L9_POW_0_125,Poniatowskiego,0,1
-9,POW,L9_POW_0_126,Zbożowa,0,1
-9,POW,L9_POW_0_127,Zbożowa,0,1
-9,POW,L9_POW_0_128,Zbożowa,0,1
+9,POW,L9_POW_0_115,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_116,Jana Pawla II – Dominikanie,0,1
+9,POW,L9_POW_0_117,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_118,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_119,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_120,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_121,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_122,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_123,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_124,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_125,Poniatowskiego przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_126,Zbożowa przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_127,Zbożowa przez Szczytańska – Cmentarz,0,1
+9,POW,L9_POW_0_128,Zbożowa przez Szczytańska – Cmentarz,0,1
 9,SOB,L9_SOB_0_129,Poniatowskiego,0,1
 9,SOB,L9_SOB_0_130,Poniatowskiego,0,1
 9,SOB,L9_SOB_0_131,Poniatowskiego,0,1
@@ -137,47 +137,47 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible
 14,POW,L14_POW_0_156,Misztale,0,1
 14,POW,L14_POW_0_157,Misztale,0,1
 14,POW,L14_POW_0_158,Misztale,0,1
-14,POW,L14_POW_0_159,Misztale,0,1
-14,POW,L14_POW_0_160,Misztale,0,1
-14,POW,L14_POW_0_161,Misztale,0,1
-14,POW,L14_POW_0_162,Misztale,0,1
-14,POW,L14_POW_0_163,Misztale,0,1
-14,POW,L14_POW_0_164,Misztale,0,1
-14,POW,L14_POW_1_165,Kr. Jadwigi,1,1
-14,POW,L14_POW_1_166,Kr. Jadwigi,1,1
-14,POW,L14_POW_1_167,Kr. Jadwigi,1,1
-14,POW,L14_POW_1_168,Kr. Jadwigi,1,1
-14,POW,L14_POW_1_169,Kr. Jadwigi,1,1
-14,POW,L14_POW_1_170,Kr. Jadwigi,1,1
+14,POW,L14_POW_0_159,Misztale przez Zwierzyniecką,0,1
+14,POW,L14_POW_0_160,Misztale przez Zwierzyniecką,0,1
+14,POW,L14_POW_0_161,Misztale przez Zwierzyniecką,0,1
+14,POW,L14_POW_0_162,Misztale przez Zwierzyniecką,0,1
+14,POW,L14_POW_0_163,Misztale przez Zwierzyniecką,0,1
+14,POW,L14_POW_0_164,Misztale przez Zwierzyniecką,0,1
+14,POW,L14_POW_1_165,Kr. Jadwigi przez Zwierzyniecką,1,1
+14,POW,L14_POW_1_166,Kr. Jadwigi przez Zwierzyniecką,1,1
+14,POW,L14_POW_1_167,Kr. Jadwigi przez Zwierzyniecką,1,1
+14,POW,L14_POW_1_168,Kr. Jadwigi przez Zwierzyniecką,1,1
+14,POW,L14_POW_1_169,Kr. Jadwigi przez Zwierzyniecką,1,1
+14,POW,L14_POW_1_170,Kr. Jadwigi przez Zwierzyniecką,1,1
 14,POW,L14_POW_1_171,Kr. Jadwigi,1,1
 14,POW,L14_POW_1_172,Kr. Jadwigi,1,1
 14,POW,L14_POW_1_173,Kr. Jadwigi,1,1
 14,POW,L14_POW_1_174,Kr. Jadwigi,1,1
 14,SOB,L14_SOB_0_175,Misztale,0,1
-14,SOB,L14_SOB_0_176,Misztale,0,1
+14,SOB,L14_SOB_0_176,Misztale przez Zwierzyniecką,0,1
 14,NIE,L14_NIE_0_177,Misztale,0,1
-14,NIE,L14_NIE_0_178,Misztale,0,1
-14,SOB,L14_SOBNIE_1_179,Kr. Jadwigi,1,1
+14,NIE,L14_NIE_0_178,Misztale przez Zwierzyniecką,0,1
+14,SOB,L14_SOBNIE_1_179,Kr. Jadwigi przez Zwierzyniecką,1,1
 14,SOB,L14_SOBNIE_1_180,Kr. Jadwigi,1,1
-14,NIE,L14_SOBNIE_1_181,Kr. Jadwigi,1,1
+14,NIE,L14_SOBNIE_1_181,Kr. Jadwigi przez Zwierzyniecką,1,1
 14,NIE,L14_SOBNIE_1_182,Kr. Jadwigi,1,1
 16,POW,L16_POW_0_183,Zbożowa,0,1
 16,POW,L16_POW_0_184,Zbożowa,0,1
 16,POW,L16_POW_0_185,Zbożowa,0,1
-16,POW,L16_POW_0_186,Zbożowa,0,1
+16,POW,L16_POW_0_186,Jana Pawła II - Starostwo,0,1
 16,POW,L16_POW_0_187,Zbożowa,0,1
 16,POW,L16_POW_0_188,Zbożowa,0,1
-16,POW,L16_POW_0_189,Zbożowa,0,1
+16,POW,L16_POW_0_189,Jana Pawła II - Starostwo,0,1
 15,POW,L15_POW_0_190,Sanowa,0,1
 15,POW,L15_POW_0_191,Sanowa,0,1
-15,POW,L15_POW_0_192,Sanowa,0,1
+15,POW,L15_POW_0_192,Tarnowskiego,0,1
 15,POW,L15_POW_0_193,Sanowa,0,1
 15,POW,L15_POW_0_194,Sanowa,0,1
 15,POW,L15_POW_0_195,Sanowa,0,1
-15,POW,L15_POW_0_196,Sanowa,0,1
+15,POW,L15_POW_0_196,Tarnowskiego,0,1
 15,POW,L15_POW_0_197,Sanowa,0,1
 15,POW,L15_POW_0_198,Sanowa,0,1
-15,POW,L15_POW_0_199,Sanowa,0,1
+15,POW,L15_POW_0_199,Tarnowskiego,0,1
 15,POW,L15_POW_0_200,Sanowa,0,1
 15,POW,L15_POW_1_221,Krakowska,1,1
 15,POW,L15_POW_1_222,Krakowska,1,1
@@ -186,25 +186,25 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible
 15,POW,L15_POW_1_225,Krakowska,1,1
 15,POW,L15_POW_1_226,Krakowska,1,1
 15,POW,L15_POW_1_227,Krakowska,1,1
-15,POW,L15_POW_1_228,Krakowska,1,1
+15,POW,L15_POW_1_228,Centrum Przesiadkowe,1,1
 15,POW,L15_POW_1_229,Krakowska,1,1
 15,POW,L15_POW_1_230,Krakowska,1,1
 10,POW,L10_POW_0_231,Kostków,0,1
 10,POW,L10_POW_0_232,Leżachów-Osada,0,1
 10,POW,L10_POW_0_233,Kostków,0,1
-10,POW,L10_POW_0_234,Kostków,0,1
-10,POW,L10_POW_0_235,Kostków,0,1
+10,POW,L10_POW_0_234,Kostków przez Łazy - San,0,1
+10,POW,L10_POW_0_235,Kostków przez Łazy - San,0,1
 10,POW,L10_POW_0_236,Leżachów-Osada,0,1
-10,POW,L10_POW_0_237,Leżachów-Osada,0,1
-10,POW,L10_POW_0_238,Kostków,0,1
-10,POW,L10_POW_0_239,Kostków,0,1
-10,POW,L10_POW_0_240,Kostków,0,1
-10,POW,L10_POW_1_241,Kr. Jadwigi,1,1
-10,POW,L10_POW_1_242,Kr. Jadwigi,1,1
-10,POW,L10_POW_1_243,Kr. Jadwigi,1,1
+10,POW,L10_POW_0_237,Leżachów-Osada przez Łazy - San,0,1
+10,POW,L10_POW_0_238,Kostków przez Łazy - San,0,1
+10,POW,L10_POW_0_239,Kostków przez Łazy - San,0,1
+10,POW,L10_POW_0_240,Kostków przez Łazy - San,0,1
+10,POW,L10_POW_1_241,Kr. Jadwigi przez Łazy - San,1,1
+10,POW,L10_POW_1_242,Kr. Jadwigi przez Łazy - San,1,1
+10,POW,L10_POW_1_243,Kr. Jadwigi przez Łazy - San,1,1
 10,POW,L10_POW_1_244,Kr. Jadwigi,1,1
 10,POW,L10_POW_1_245,Kr. Jadwigi,1,1
-10,POW,L10_POW_1_246,Kr. Jadwigi,1,1
+10,POW,L10_POW_1_246,Kr. Jadwigi przez Łazy - San,1,1
 10,POW,L10_POW_1_247,Kr. Jadwigi,1,1
 10,POW,L10_POW_1_248,Kr. Jadwigi,1,1
 10,POW,L10_POW_1_249,Kr. Jadwigi,1,1
