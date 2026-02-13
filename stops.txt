@@ -6,7 +6,7 @@ Jar_Krak_04,Krakowska - Gazownia,50.0219793,22.64826779,miejska,2,0,Jarosław,2
 Jar_Krak_05,Krakowska - Cmentarz,50.01867469,22.65965023,miejska,1,0,Jarosław,1
 Jar_Krak_06,Krakowska - Cmentarz,50.01933154,22.65774648,miejska,1,0,Jarosław,2
 Jar_JPII_01,Jana Pawła II - Dominikanie,50.01619023,22.66750529,miejska,2,0,Jarosław,1
-Jar_JPII_02,Jana Pawła II - Dominikanie,50.01626126,22.66763272,miejska,2,0,Jarosław,2
+Jar_JPII_02,Jana Pawła II - Dominikanie,50.01619531879756, 22.66781406101556,miejska,2,0,Jarosław,2
 Jar_JPII_03,Jana Pawła II - Starostwo,50.01552489,22.67489184,miejska,1,0,Jarosław,1
 Jar_JPII_04,Jana Pawła II - Starostwo,50.01548435,22.67369566,miejska,1,0,Jarosław,2
 Jar_Grun_02,Grunwaldzka,50.01678935,22.68045387,miejska,1,0,Jarosław,1
@@ -17,7 +17,7 @@ Jar_KrJa_01,Królowej Jadwigi,50.01353035,22.68367501,miejska,1,0,Jarosław,1
 Jar_Poni_01,Poniatowskiego,50.01282657,22.68340223,miejska,1,0,Jarosław,1
 Jar_Poni_02,Poniatowskiego,50.0128971,22.68401884,miejska,1,0,Jarosław,2
 Jar_Siko_01,Sikorskiego,50.01578519,22.68248373,miejska,2,0,Jarosław,1
-Jar_Szcc_01,Szczytańska / Krakowska,50.01762061,22.66278233,miejska,2,0,Jarosław,1
+Jar_Szcc_01,Szczytańska / Krakowska,50.017580213322184, 22.66263530029872,miejska,2,0,Jarosław,1
 Jar_Szcc_02,Szczytańska / Krakowska,50.01768169,22.66261036,miejska,2,0,Jarosław,2
 Jar_Szcc_03,Szczytańska - Wiadukt,50.01572082,22.65379059,miejska,2,0,Jarosław,1
 Jar_Szcc_04,Szczytańska - Wiadukt,50.01568697,22.65296535,miejska,2,0,Jarosław,2
@@ -34,19 +34,19 @@ Jar_Pruc_03,Pruchnicka II,50.00765053,22.67626629,miejska,2,0,Jarosław,1
 Jar_Pruc_04,Pruchnicka II,50.00556582,22.67514354,miejska,2,0,Jarosław,2
 Jar_Pruc_05,Pruchnicka I,50.01038756,22.67427965,miejska,1,0,Jarosław,1
 Jar_Pruc_06,Pruchnicka I,50.01037182,22.67400941,miejska,2,0,Jarosław,2
-Jar_Lotn_01,Lotników I,50.02158269,22.63913762,miejska,2,0,Jarosław,1
+Jar_Lotn_01,Lotników I,50.02152416202325, 22.639190735999208,miejska,2,0,Jarosław,1
 Jar_Lotn_02,Lotników II,50.01837869,22.64080914,miejska,2,0,Jarosław,1
 Jar_TrMa_01,3 Maja,50.01375667,22.69352931,miejska,1,0,Jarosław,1
 Jar_TrMa_02,3 Maja,50.01437461,22.69167236,miejska,1,0,Jarosław,2
-Jar_TrMa_03,3 Maja - Kombatantów,50.01084306,22.69846909,miejska,2,0,Jarosław,1
-Jar_TrMa_04,3 Maja - Kombatantów,50.01007372,22.69938974,miejska,2,0,Jarosław,2
+Jar_TrMa_03,3 Maja - Kombatantów,50.010852235368176, 22.69847785483399,miejska,2,0,Jarosław,1
+Jar_TrMa_04,3 Maja - Kombatantów,50.01015093224167, 22.699353759843074,miejska,2,0,Jarosław,2
 Jar_TrMa_05,3 Maja - Jarlan,50.00661127,22.70676629,miejska,1,0,Jarosław,1
 Jar_TrMa_06,3 Maja - Jarlan,50.005837,22.70790931,miejska,2,0,Jarosław,2
 Jar_TrMa_07,3 Maja - Huta Szkła,50.00417539,22.71181886,miejska,2,0,Jarosław,1
 Jar_TrMa_08,3 Maja - Huta Szkła,50.00257144,22.71464428,miejska,1,0,Jarosław,2
 Jar_Zboz_01,Zbożowa - P.Z.Z.,49.99957261,22.71882124,miejska,1,0,Jarosław,1
 Jar_Tarn_01,Zamkowa,50.01878139,22.69140847,miejska,2,0,Jarosław,1
-Jar_Tarn_02,Tarnowskiego,50.01849011,22.69117319,miejska,2,0,Jarosław,2
+Jar_Tarn_02,Tarnowskiego,50.01851164107264, 22.69117092382443,miejska,2,0,Jarosław,2
 Jar_Fils_01,Flisacka,50.02153625,22.69718394,miejska,2,0,Jarosław,1
 Jar_Fils_02,Flisacka,50.02135732,22.69715794,miejska,2,0,Jarosław,2
 Jar_Dlug_01,Długosza,50.02463675,22.69606139,miejska,2,0,Jarosław,1
@@ -97,7 +97,7 @@ Jar_Staw_02,Stawki I,50.05497949576094,22.67800320752608,miejska,2,0,Jarosław,2
 Jar_Staw_03,Stawki,50.05902531039465,22.68330774397469,miejska,2,0,Jarosław,1
 Jar_Staw_04,Stawki,50.05906361630083,22.6834668554833,miejska,2,0,Jarosław,2
 Jar_Staw_05,Stawki - Końcowy,50.0632545073264,22.685189519793326,miejska,2,0,Jarosław,1
-Jar_Pogo_01,Pogodna - Hajnusa,50.02674258917556,22.668585259935934,miejska,2,0,Jarosław,1
+Jar_Pogo_01,Pogodna / Hajnusa,50.02674258917556,22.668585259935934,miejska,2,0,Jarosław,1
 Jar_Pogo_02,Pogodna - Ogródki,50.02857945808226,22.662703915511145,miejska,2,0,Jarosław,1
 Jar_Grod_01,Grodziszczańska III,50.031674172639846,22.656945387599972,miejska,2,0,Jarosław,1
 Jar_Grod_02,Grodziszczańska IV,50.03710064002214,22.653042477008004,miejska,2,0,Jarosław,1
@@ -139,7 +139,7 @@ Osa_Osad_02,Osada - Skrzyżowanie,50.1201527876252, 22.63364506324768,1,2,0,Leż
 Osa_Osad_03,Osada - Świetlica,50.127589161380754, 22.626960855231566,1,2,0,Leżachów-Osada,1
 Jar_Sano_01,Sanowa - Noclegowania,50.020650282244375,22.69917676172243,miejska,2,0,Jarosław,1
 Jar_Sano_02,Sanowa - Noclegowania,50.02052260972102, 22.70020531686079,miejska,2,0,Jarosław,2
-Jar_Sano_03,Sanowa - Bulwary,50.021023208625586, 22.707498715275648,miejska,2,0,Jarosław,1
+Jar_Sano_03,Sanowa - Bulwary,50.0209897884395, 22.70751517424887,miejska,2,0,Jarosław,1
 Jar_Sano_04,Sanowa - Bulwary,50.02094813339167, 22.708653022096883,miejska,2,0,Jarosław,2
 Jar_Sano_05,Sanowa - Cmentarz,50.0230168710515, 22.713193193883704,miejska,2,0,Jarosław,1
-Jar_Sano_06,Sanowa - Cmentarz,50.02383488268538, 22.71426320907604,miejska,2,0,Jarosław,2
+Jar_Sano_06,Sanowa - Cmentarz,50.023798645476454, 22.71416430388517,miejska,2,0,Jarosław,2
