@@ -10,6 +10,7 @@ Feed zawiera następujące elementy GTFS:
 - Trips (trips.txt)
 - Stop Times (stop_times.txt)
 - Feed Information (feed_info.txt)
+- Shapes (shapes.txt)
 - Route Colors (routes.txt)
 - Headsigns (routes.txt)
 - Stops Wheelchair Accessibility (stops.txt, *UWAGA: dane o dostępności przystanków są subiektywne i mogą okazać się błędne.)
