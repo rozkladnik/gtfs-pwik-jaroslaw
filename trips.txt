@@ -157,10 +157,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible,sha
 14,SOB,L14_SOB_0_176,Misztale przez Zwierzyniecką,0,1,shp_25
 14,NIE,L14_NIE_0_177,Misztale,0,1,shp_26
 14,NIE,L14_NIE_0_178,Misztale przez Zwierzyniecką,0,1,shp_25
-14,SOB,L14_SOBNIE_1_179,Kr. Jadwigi przez Zwierzyniecką,1,1,shp_27
-14,SOB,L14_SOBNIE_1_180,Kr. Jadwigi,1,1,shp_28
-14,NIE,L14_SOBNIE_1_181,Kr. Jadwigi przez Zwierzyniecką,1,1,shp_27
-14,NIE,L14_SOBNIE_1_182,Kr. Jadwigi,1,1,shp_28
+14,SOB,L14_SOB_1_179,Kr. Jadwigi przez Zwierzyniecką,1,1,shp_27
+14,SOB,L14_SOB_1_180,Kr. Jadwigi,1,1,shp_28
+14,NIE,L14_NIE_1_181,Kr. Jadwigi przez Zwierzyniecką,1,1,shp_27
+14,NIE,L14_NIE_1_182,Kr. Jadwigi,1,1,shp_28
 16,POW,L16_POW_0_183,Zbożowa,0,1,shp_29
 16,POW,L16_POW_0_184,Zbożowa,0,1,shp_30
 16,POW,L16_POW_0_185,Zbożowa,0,1,shp_30
