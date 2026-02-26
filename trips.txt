@@ -211,15 +211,15 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible,sha
 10,POW,L10_POW_1_250,Kr. Jadwigi,1,1,shp_48
 15,DW,L15_DW_0_211,Sanowa,0,1,shp_50
 15,DW,L15_DW_0_212,Sanowa,0,1,shp_51
-15,DW,L15_DW_0_213,Sanowa,0,1,shp_51
+15,DW,L15_DW_0_213,Tarnowskiego,0,1,shp_51
 15,DW,L15_DW_0_214,Sanowa,0,1,shp_50
 15,DW,L15_DW_0_215,Sanowa,0,1,shp_51
-15,DW,L15_DW_0_216,Sanowa,0,1,shp_51
+15,DW,L15_DW_0_216,Tarnowskiego,0,1,shp_51
 15,DW,L15_DW_0_217,Sanowa,0,1,shp_50
 15,DW,L15_DW_0_218,Sanowa,0,1,shp_51
-15,DW,L15_DW_0_219,Sanowa,0,1,shp_51
+15,DW,L15_DW_0_219,Tarnowskiego,0,1,shp_51
 15,DW,L15_DW_0_220,Sanowa,0,1,shp_52
-15,DW,L15_DW_0_221,Sanowa,0,1,shp_51
+15,DW,L15_DW_0_221,Tarnowskiego,0,1,shp_51
 15,DW,L15_DW_1_222,Krakowska,1,1,shp_38
 15,DW,L15_DW_1_223,Krakowska,1,1,shp_38
 15,DW,L15_DW_1_224,Krakowska,1,1,shp_38

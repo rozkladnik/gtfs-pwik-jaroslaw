@@ -17,12 +17,12 @@ Jar_KrJa_01,Królowej Jadwigi,50.01353035,22.68367501,miejska,1,0,Jarosław,1
 Jar_Poni_01,Poniatowskiego,50.01282657,22.68340223,miejska,1,0,Jarosław,1
 Jar_Poni_02,Poniatowskiego,50.0128971,22.68401884,miejska,1,0,Jarosław,2
 Jar_Siko_01,Sikorskiego,50.01578519,22.68248373,miejska,2,0,Jarosław,1
-Jar_Szcc_01,Szczytańska / Krakowska,50.017580213322184, 22.66263530029872,miejska,2,0,Jarosław,1
-Jar_Szcc_02,Szczytańska / Krakowska,50.01768169,22.66261036,miejska,2,0,Jarosław,2
-Jar_Szcc_03,Szczytańska - Wiadukt,50.01572082,22.65379059,miejska,2,0,Jarosław,1
-Jar_Szcc_04,Szczytańska - Wiadukt,50.01568697,22.65296535,miejska,2,0,Jarosław,2
-Jar_Szcc_05,Szczytańska - Rondo,50.014643963445536, 22.645215777616432,miejska,2,0,Jarosław,1
-Jar_Szcc_07,Szczytańska - Cmentarz,50.0166133, 22.6451118,miejska,2,0,Jarosław,1
+Jar_Szcc_01,Szczytniańska / Krakowska,50.017580213322184, 22.66263530029872,miejska,2,0,Jarosław,1
+Jar_Szcc_02,Szczytniańska / Krakowska,50.01768169,22.66261036,miejska,2,0,Jarosław,2
+Jar_Szcc_03,Szczytniańska - Wiadukt,50.01572082,22.65379059,miejska,2,0,Jarosław,1
+Jar_Szcc_04,Szczytniańska - Wiadukt,50.01568697,22.65296535,miejska,2,0,Jarosław,2
+Jar_Szcc_05,Szczytniańska - Rondo,50.014643963445536, 22.645215777616432,miejska,2,0,Jarosław,1
+Jar_Szcc_07,Szczytniańska - Cmentarz,50.0166133, 22.6451118,miejska,2,0,Jarosław,1
 Mal_Male_01,Maleniska I,50.01423577,22.6445169,miejska,2,0,Maleniska,1
 Mal_Male_02,Maleniska II,50.01202128,22.64901715,miejska,2,0,Maleniska,1
 Jar_Strz_01,Strzelecka I,50.00581671,22.66110348,miejska,2,0,Jarosław,1
