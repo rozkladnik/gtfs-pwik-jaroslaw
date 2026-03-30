@@ -2,7 +2,7 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible,sha
 0,POW,L0_POW_0_0,Zbożowa,0,1,shp_1
 0,POW,L0_POW_0_1,Zbożowa,0,1,shp_1
 0,POW,L0_POW_0_2,Zbożowa,0,1,shp_1
-0,POW,L0_POW_0_3_01_03_2026,Zbożowa,0,1,shp_1
+0,POW,L0_POW_0_3,Zbożowa,0,1,shp_1
 0,POW,L0_POW_0_4,Zbożowa,0,1,shp_1
 0,POW,L0_POW_0_5,Zbożowa,0,1,shp_1
 0,POW,L0_POW_0_6,Zbożowa,0,1,shp_1
@@ -40,10 +40,10 @@ route_id,service_id,trip_id,trip_headsign,direction_id,wheelchair_accessible,sha
 0,POW,L0_POW_1_39,Piłsudskiego,1,1,shp_3
 0,POW,L0_POW_1_40,Piłsudskiego,1,1,shp_4
 0,POW,L0_POW_1_41,Piłsudskiego,1,1,shp_3
-0,POW,L0_POW_1_42_01_03_2026,Piłsudskiego,1,1,shp_4
+0,POW,L0_POW_1_42,Piłsudskiego,1,1,shp_4
 0,POW,L0_POW_1_43,Piłsudskiego,1,1,shp_3
 0,POW,L0_POW_1_44,Piłsudskiego,1,1,shp_3
-0,POW,L0_POW_1_45_01_03_2026,Piłsudskiego,1,1,shp_4
+0,POW,L0_POW_1_45,Piłsudskiego,1,1,shp_4
 0,POW,L0_POW_1_46,Piłsudskiego,1,1,shp_3
 0,POW,L0_POW_1_47,Piłsudskiego,1,1,shp_4
 0,POW,L0_POW_1_48,Piłsudskiego,1,1,shp_4

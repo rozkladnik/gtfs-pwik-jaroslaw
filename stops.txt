@@ -71,7 +71,7 @@ Jar_Kras_01,Kraszewskiego - Park,50.01792835,22.67734432,miejska,1,0,Jarosław,2
 Jar_Kras_02,Kraszewskiego - Rondo,50.02317614,22.67466659,miejska,1,0,Jarosław,2
 Jar_Skar_01,Skarbowskiego,50.02538523,22.66974468,miejska,2,0,Jarosław,1
 Jar_Skar_02,Skarbowskiego,50.02549422,22.66970674,miejska,2,0,Jarosław,2
-Jar_Pils_01,Piłsudskiego,50.02351632,22.66893692,miejska,2,0,Jarosław,1
+Jar_Pils_01,os. Piłsudskiego,50.02351632,22.66893692,miejska,2,0,Jarosław,1
 Jar_Konf_01,Konfederacka - Końcowy,50.02429181,22.66491162,miejska,1,0,Jarosław,1
 Jar_Band_01,Bandurskiego,50.0218772,22.6716937,miejska,2,0,Jarosław,1
 Jar_Band_02,Bandurskiego,50.02179209,22.67190405,miejska,2,0,Jarosław,2
@@ -126,8 +126,8 @@ Kos_Kost_01,Kostków I,50.08912787068665,22.656299556069726,1,2,0,Kostków,1
 Kos_Kost_02,Kostków I,50.08915292660027,22.65642473839542,1,2,0,Kostków,2
 Kos_Kost_03,Kostków II,50.09879541603711,22.653985989009012,1,2,0,Kostków,1
 Kos_Kost_04,Kostków II,50.09869758722289,22.654166632905387,1,2,0,Kostków,2
-Kos_Kost_05,Kostków (nż),50.10255635682428,22.650867507396967,1,2,0,Kostków,1
-Kos_Kost_06,Kostków (nż),50.10271139628466,22.650723423338338,1,2,0,Kostków,2
+Kos_Kost_05,Kostków [nż],50.10255635682428,22.650867507396967,1,2,0,Kostków,1
+Kos_Kost_06,Kostków [nż],50.10271139628466,22.650723423338338,1,2,0,Kostków,2
 Kos_Kost_07,Kostków - Pętla,50.10635104111628,22.647367537148657,1,2,0,Kostków,1
 Kos_Kost_08,Kostków - Pętla,50.1063544310256,22.647702840345488,1,2,0,Kostków,2
 Kos_Kost_09,Kostków - Kościół,50.111966967531686,22.64152017692248,1,2,0,Kostków,1
@@ -143,3 +143,4 @@ Jar_Sano_03,Sanowa - Bulwary,50.0209897884395, 22.70751517424887,miejska,2,0,Jar
 Jar_Sano_04,Sanowa - Bulwary,50.02094813339167, 22.708653022096883,miejska,2,0,Jarosław,2
 Jar_Sano_05,Sanowa - Cmentarz,50.0230168710515, 22.713193193883704,miejska,2,0,Jarosław,1
 Jar_Sano_06,Sanowa - Cmentarz,50.023798645476454, 22.71416430388517,miejska,2,0,Jarosław,2
+Jar_tech_01,ul. Zamkowa Zajezdnia [tech],50.01910935602732, 22.69170117548578,miejska,,0,Jarosław,0
