@@ -1,2 +1,2 @@
-﻿feed_publisher_name,feed_publisher_url,feed_lang,default_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email
-Rozkładnik,"https://github.com/rozkladnik/",pl,pl,20250805,20260531,"1.0.9","rozkladnik0@gmail.com"
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url,default_lang
+Rozkładnik,https://github.com/rozkladnik/,pl,20250805,20260731,1.1.0,rozkladnik0@gmail.com,,pl
