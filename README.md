@@ -15,7 +15,7 @@ Feed zawiera następujące elementy GTFS:
 - Headsigns (routes.txt)
 - Stops Wheelchair Accessibility (stops.txt, *UWAGA: dane o dostępności przystanków są subiektywne i mogą okazać się błędne.)
 - Trips Wheelchair Accessibility (trips.txt *UWAGA: dane o dostępności kursów zostały ustalone na podstawie informacji, że 100% obecnie eksploatowanego taboru stanowią pojazdy niskowejściowe lub niskopodłogowe)
-- Fares V1 (stops.txt, fare_attributes.txt, fare_rules.txt)
+- Fares V2 (fare_media.txt, fare_products.txt, rider_categories.txt, fare_transfer_rules.txt, fare_leg_rules.txt, areas.txt, stop_areas.txt)
   
 ## Dokładność lokalizacji przystanków
 Lokalizacje niektórych przystanków są przybliżone i oznaczają miejsca, w których autobus zazwyczaj się zatrzymuje. W części lokalizacji nie występuje fizyczna infrastruktura przystankowa (np. słupek przystankowy).
@@ -41,6 +41,10 @@ Feed jest nieoficjalny i nie jest powiązany z Urzędem Miasta Jarosławia (orga
 ## Źródła danych
 - informacje o czasie odjazdów: https://pwik-jaroslaw.pl/rozklad-jazdy/
 - informacje o taryfie opłat: https://pwik-jaroslaw.pl/taryfa-oplat/
+
+## Linki
+Link do pobrania najnowszego GTFS:
+https://github.com/rozkladnik/gtfs-pwik-jaroslaw/releases/latest/download/gtfs.zip
 
 ## Licencja
 Pliki tego repozytorium są licencjonowane na podstawie licencji Creative Commons Attribution 4.0 International (CC BY 4.0).
