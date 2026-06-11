@@ -1,0 +1,40 @@
+{
+  "alerts": {
+    "f21d3ce9dadbf74e33bf99cd8078c64e": {
+      "id": "f21d3ce9dadbf74e33bf99cd8078c64e",
+      "route_ids": ["14"],
+      "stop_ids": ["Jar_Misz_07", "Jar_Misz_08", "Jar_Misz_09"],
+      "cause": "CONSTRUCTION",
+      "effect": "DETOUR",
+      "start_date": "2026-04-20",
+      "end_date": null,
+      "header": {
+        "pl": "Tymaczasowe zawieszenie obsługi przystanków",
+        "en": "Temporary suspension of service at selected stops"
+      },
+      "summary": {
+        "pl": "W związku z przebudową ulicy Misztale obsługa wybranych przystanków została zawieszona do odwołania.",
+        "en": "Due to construction works on Misztale Street, service at selected bus stops has been temporarily suspended until further notice."
+      },
+      "url": "https://pwik-jaroslaw.pl/zmiany-na-linii-nr-14-od-20-kwietnia-2026-r/"
+    },
+    "alert-1": {
+      "id": "alert-1",
+      "route_ids": [],
+      "stop_ids": ["Jar_Krak_06", "Jar_Krak_05", "Jar_Krak_04", "Jar_Krak_03", "Jar_Krak_02", "Jar_Krak_01"],
+      "cause": "CONSTRUCTION",
+      "effect": "SIGNIFICANT_DELAYS",
+      "start_date": "2026-05-22",
+      "end_date": "2026-10-31",
+      "header": {
+        "pl": "Prace drogowe na ul. Krakowskiej",
+        "en": "Roadworks on Krakowska street"
+      },
+      "summary": {
+        "pl": "W związku z prowadzonymi pracami drogowymi na ulicy Krakowskiej mogą występować opóźnienia w kursowaniu autobusów.",
+        "en": "Bus services may experience delays due to roadworks on Krakowska Street."
+      },
+      "url": null
+    }
+  }
+}
