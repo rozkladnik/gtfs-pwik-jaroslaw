@@ -35,6 +35,24 @@
         "en": "Due to roadworks on Krakowska Street, bus routes in the area may be subject to minor delays. Please allow extra time for your journey."
       },
       "url": null
+    },
+    "testalert": {
+      "id": "testalertroute10",
+      "route_ids": ["10"],
+      "stop_ids": [],
+      "cause": "POLICE_ACTIVITY",
+      "effect": "NO_SERVICE",
+      "start_date": "2026-06-17",
+      "end_date": "2026-06-18",
+      "header": {
+        "pl": "test, proszę ignorować",
+        "en": "test, please ignore"
+      },
+      "summary": {
+        "pl": "",
+        "en": ""
+      },
+      "url": null
     }
   }
 }
