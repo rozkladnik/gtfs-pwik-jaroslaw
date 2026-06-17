@@ -5,16 +5,16 @@
       "route_ids": ["14"],
       "stop_ids": ["Jar_Misz_07", "Jar_Misz_08", "Jar_Misz_09"],
       "cause": "CONSTRUCTION",
-      "effect": "DETOUR",
+      "effect": "MODIFIED_SERVICE",
       "start_date": "2026-04-20",
       "end_date": null,
       "header": {
-        "pl": "Tymaczasowe zawieszenie obsługi przystanków",
-        "en": "Temporary suspension of service at selected stops"
+        "pl": "Przebudowa ulicy Misztale",
+        "en": "Roadworks on Misztale Street"
       },
       "summary": {
-        "pl": "W związku z przebudową ulicy Misztale obsługa wybranych przystanków została zawieszona do odwołania.",
-        "en": "Due to construction works on Misztale Street, service at selected bus stops has been temporarily suspended until further notice."
+        "pl": "W związku z przebudową ulicy Misztale, do odwołania zawiesza się funkcjonowanie przystanków MISZTALE / WODNA I oraz MISZTALE PĘTLA. Tymczasowym przystankiem krańcowym dla linii 14 zostaje przystanek MISZTALE II",
+        "en": "Due to roadworks on Misztale Street, Route 14 is running a shortened service and will terminate at MISZTALE II. Bus stops MISZTALE / WODNA I and MISZTALE PĘTLA are suspended until further notice."
       },
       "url": null
     },
@@ -23,16 +23,16 @@
       "route_ids": [],
       "stop_ids": ["Jar_Krak_06", "Jar_Krak_05", "Jar_Krak_04", "Jar_Krak_03", "Jar_Krak_02", "Jar_Krak_01"],
       "cause": "CONSTRUCTION",
-      "effect": "SIGNIFICANT_DELAYS",
+      "effect": "OTHER_EFFECT",
       "start_date": "2026-05-22",
       "end_date": "2026-10-31",
       "header": {
-        "pl": "Prace drogowe na ul. Krakowskiej",
+        "pl": "Prace drogowe na ulicy Krakowskiej",
         "en": "Roadworks on Krakowska street"
       },
       "summary": {
-        "pl": "W związku z prowadzonymi pracami drogowymi na ulicy Krakowskiej mogą występować opóźnienia w kursowaniu autobusów.",
-        "en": "Bus services may experience delays due to roadworks on Krakowska Street."
+        "pl": "W związku z pracami drogowymi na ulicy Krakowskiej mogą występować niewielkie opóźnienia w kursowaniu autobusów.",
+        "en": "Due to roadworks on Krakowska Street, bus routes in the area may be subject to minor delays. Please allow extra time for your journey."
       },
       "url": null
     }
