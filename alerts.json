@@ -5,7 +5,7 @@
       "route_ids": ["14"],
       "stop_ids": ["Jar_Misz_07", "Jar_Misz_08", "Jar_Misz_09"],
       "cause": "CONSTRUCTION",
-      "effect": "MODIFIED_SERVICE",
+      "effect": "DETOUR",
       "start_date": "2026-04-20",
       "end_date": null,
       "header": {
@@ -23,7 +23,7 @@
       "route_ids": [],
       "stop_ids": ["Jar_Krak_06", "Jar_Krak_05", "Jar_Krak_04", "Jar_Krak_03", "Jar_Krak_02", "Jar_Krak_01"],
       "cause": "CONSTRUCTION",
-      "effect": "OTHER_EFFECT",
+      "effect": "NO_EFFECT",
       "start_date": "2026-05-22",
       "end_date": "2026-10-31",
       "header": {
