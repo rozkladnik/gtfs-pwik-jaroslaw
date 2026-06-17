@@ -23,7 +23,7 @@
       "route_ids": [],
       "stop_ids": ["Jar_Krak_06", "Jar_Krak_05", "Jar_Krak_04", "Jar_Krak_03", "Jar_Krak_02", "Jar_Krak_01"],
       "cause": "CONSTRUCTION",
-      "effect": "NO_EFFECT",
+      "effect": "SIGNIFICANT_DELAYS",
       "start_date": "2026-05-22",
       "end_date": "2026-10-31",
       "header": {
