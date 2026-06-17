@@ -9,11 +9,11 @@
       "start_date": "2026-04-20",
       "end_date": null,
       "header": {
-        "pl": "Przebudowa ulicy Misztale",
+        "pl-PL": "Przebudowa ulicy Misztale",
         "en": "Roadworks on Misztale Street"
       },
       "summary": {
-        "pl": "W związku z przebudową ulicy Misztale, do odwołania zawiesza się funkcjonowanie przystanków MISZTALE / WODNA I oraz MISZTALE PĘTLA. Tymczasowym przystankiem krańcowym dla linii 14 zostaje przystanek MISZTALE II",
+        "pl-PL": "W związku z przebudową ulicy Misztale, do odwołania zawiesza się funkcjonowanie przystanków MISZTALE / WODNA I oraz MISZTALE PĘTLA. Tymczasowym przystankiem krańcowym dla linii 14 zostaje przystanek MISZTALE II",
         "en": "Due to roadworks on Misztale Street, Route 14 is running a shortened service and will terminate at MISZTALE II. Bus stops MISZTALE / WODNA I and MISZTALE PĘTLA are suspended until further notice."
       },
       "url": null
@@ -27,11 +27,11 @@
       "start_date": "2026-05-22",
       "end_date": "2026-10-31",
       "header": {
-        "pl": "Prace drogowe na ulicy Krakowskiej",
+        "pl-PL": "Prace drogowe na ulicy Krakowskiej",
         "en": "Roadworks on Krakowska street"
       },
       "summary": {
-        "pl": "W związku z pracami drogowymi na ulicy Krakowskiej mogą występować niewielkie opóźnienia w kursowaniu autobusów.",
+        "pl-PL": "W związku z pracami drogowymi na ulicy Krakowskiej mogą występować niewielkie opóźnienia w kursowaniu autobusów.",
         "en": "Due to roadworks on Krakowska Street, bus routes in the area may be subject to minor delays. Please allow extra time for your journey."
       },
       "url": null
