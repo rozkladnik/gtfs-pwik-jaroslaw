@@ -23,7 +23,7 @@
       "route_ids": [],
       "stop_ids": ["Jar_Krak_06", "Jar_Krak_05", "Jar_Krak_04", "Jar_Krak_03", "Jar_Krak_02", "Jar_Krak_01"],
       "cause": "CONSTRUCTION",
-      "effect": "SIGNIFICANT_DELAYS",
+      "effect": "OTHER",
       "start_date": "2026-05-22",
       "end_date": "2026-10-31",
       "header": {
@@ -36,24 +36,6 @@
       },
       "url": null
     },
-    "alert-2": {
-      "id": "alert-2",
-      "route_ids": ["15"],
-      "stop_ids": [],
-      "cause": "OTHER_CAUSE",
-      "effect": "MODIFIED_SERVICE",
-      "start_date": "2026-06-24",
-      "end_date": "2026-06-30",
-      "header": {
-        "pl-PL": "Zmiany w rozkładzie",
-        "en": "Timetable changes "
-      },
-      "summary": {
-        "pl-PL": "Od soboty 27 czerwca wejdzie w życie nowy rozkład jazdy linii 15.",
-        "en": "From Saturday 27 June, a new timetable will be in place on Route 15."
-      },
-      "url": null
-    },
     "alert-3": {
       "id": "alert-3",
       "route_ids": ["8"],
@@ -61,14 +43,14 @@
       "cause": "HOLIDAY",
       "effect": "MODIFIED_SERVICE",
       "start_date": "2026-06-24",
-      "end_date": "2026-06-30",
+      "end_date": "2026-08-30",
       "header": {
         "pl-PL": "Zawieszenie wybranych kursów",
         "en": "Service reductions"
       },
       "summary": {
-        "pl-PL": "Od poniedziałku 29 czerwca wprowadzony zostaje wakacyjny rozkład jazdy. Na linii 8 zawiesza się następujące kursy: z przystanku KR. JADWIGI o godz. 7:45 oraz z przystanku STAWKI, PĘTLA o godz. 8:10.",
-        "en": "From Monday 29 June, a summer timetable is introduced. On Route 8, the following services are suspended: 07:45 from KR. JADWIGI stop and 08:10 from STAWKI, PĘTLA stop."
+        "pl-PL": "Od poniedziałku 29 czerwca obowiązuje zostaje wakacyjny rozkład jazdy. Na linii 8 zawiesza się następujące kursy: z przystanku KR. JADWIGI o godz. 7:45 oraz z przystanku STAWKI, PĘTLA o godz. 8:10.",
+        "en": "The summer timetable is in effect from Monday, June 29. On Route 8, the following services are suspended: 07:45 from KR. JADWIGI stop and 08:10 from STAWKI, PĘTLA stop."
       },
       "url": null
     },
@@ -79,14 +61,14 @@
       "cause": "HOLIDAY",
       "effect": "MODIFIED_SERVICE",
       "start_date": "2026-06-24",
-      "end_date": "2026-06-30",
+      "end_date": "2026-08-30",
       "header": {
         "pl-PL": "Zawieszenie wybranych kursów i skrócona trasa",
         "en": "Service reductions and shortened route "
       },
       "summary": {
-        "pl-PL": "Od poniedziałku 29 czerwca wprowadzony zostaje wakacyjny rozkład jazdy. Linia 10 będzie kończyć na przystanku KOSTKÓW, PĘTLA. Zawiesza się następujące kursy: z przystanku KR. JADWIGI o godz. 11:10, 17:20 i 19:25 oraz z przystanku KOSTKÓW, PĘTLA o godz. 11:45, 17:50 i 19:55.",
-        "en": "From Monday 29 June, a summer timetable is introduced. Route 10 will terminate at KOSTKÓW, PĘTLA. In addition, the following services are suspended: from KR. JADWIGI stop at 11:10, 17:20 and 19:25, and from KOSTKÓW, PĘTLA stop at 11:45, 17:50 and 19:55."
+        "pl-PL": "Od poniedziałku 29 czerwca obowiązuje wakacyjny rozkład jazdy. Linia 10 nie będzie obsługiwać miejscowości Leżachów i będzie kończyć na przystanku KOSTKÓW, PĘTLA. Zawiesza się następujące kursy: z przystanku KR. JADWIGI o godz. 11:10, 17:20 i 19:25 oraz z przystanku KOSTKÓW, PĘTLA o godz. 11:45, 17:50 i 19:55.",
+        "en": "The summer timetable is in effect from Monday, June 29. Route 10 won't serve Leżachów village and will terminate at KOSTKÓW, PĘTLA. In addition, the following services are suspended: from KR. JADWIGI stop at 11:10, 17:20 and 19:25, and from KOSTKÓW, PĘTLA stop at 11:45, 17:50 and 19:55."
       },
       "url": null
     }
