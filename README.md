@@ -1,8 +1,10 @@
 # gtfs-pwik-jaroslaw
-Pliki GTFS Schedule dla Jarosławskiej Komunikacji Miejskiej.
+GTFS Schedule for Jarosławska Komunikacja Miejska.
 
-## Obsługiwane funkcje
-Feed zawiera następujące elementy GTFS:
+## Used by:
+(Transit)[https://transitapp.com/]
+
+## Supported features:
 - Agency (agency.txt)
 - Stops (stops.txt)
 - Routes (routes.txt)
@@ -12,40 +14,30 @@ Feed zawiera następujące elementy GTFS:
 - Feed Information (feed_info.txt)
 - Shapes (shapes.txt)
 - Route Colors (routes.txt)
-- Headsigns (routes.txt)
-- Stops Wheelchair Accessibility (stops.txt, *UWAGA: dane o dostępności przystanków są subiektywne i mogą okazać się błędne.)
-- Trips Wheelchair Accessibility (trips.txt *UWAGA: dane o dostępności kursów zostały ustalone na podstawie informacji, że 100% obecnie eksploatowanego taboru stanowią pojazdy niskowejściowe lub niskopodłogowe)
+- Headsigns (trips.txt)
+- Stops Wheelchair Accessibility (stops.txt)
+- Trips Wheelchair Accessibility (trips.txt)
 - Fares V2 (fare_media.txt, fare_products.txt, rider_categories.txt, fare_transfer_rules.txt, fare_leg_rules.txt, areas.txt, stop_areas.txt)
   
-## Dokładność lokalizacji przystanków
-Lokalizacje niektórych przystanków są przybliżone i oznaczają miejsca, w których autobus zazwyczaj się zatrzymuje. W części lokalizacji nie występuje fizyczna infrastruktura przystankowa (np. słupek przystankowy).
+## Accuracy of stop locations
+Some stop locations are approximate and indicate where the bus typically stops. Some locations lack physical stop infrastructure (e.g., a bus stop sign).
 
-## Dodatkowe pole `direction` w stops.txt
-Plik `stops.txt` zawiera dodatkowe, niestandardowe pole `direction`, które określa stronę ulicy oraz kierunek jazdy po wsiadaniu na przystanku:
+## Data accuracy
+The data contained in the feed is accurate and up to date as of the date of publication. It remains valid until May 31, 2027, unless the applicable timetable is amended before that date.
+Some of the data was generated automatically. Due to the volume, it is impossible to review it manually. The feed is provided "as is," and its author is not responsible for its completeness, timeliness, or accuracy.
 
-- `1` – odjazdy w kierunku Centrum Przesiadkowego
-- `2` – odjazdy w kierunku przeciwnym od Centrum Przesiadkowego
+## Legal status
+The data contained in this repository constitutes a reuse of public information. It has been compiled based on publicly available timetables.
+The feed is unofficial and is not affiliated with the City of Jarosław (Urząd Miasta Jarosławia; the organizer) or Przedsiębiorstwo Wodociągów i Kanalizacji w Jarosławiu Sp. z o.o. (the operator).
 
-Pole to ma charakter pomocniczy, służy wyłącznie do ułatwienia tworzenia i utrzymywania plików GTFS, nie jest częścią oficjalnej specyfikacji i nie powinno być wykorzystywane w aplikacjach.
+## Data sources
+- timetable: https://pwik-jaroslaw.pl/rozklad-jazdy/
+- fares: https://pwik-jaroslaw.pl/taryfa-oplat/
 
-## Aktualność danych
-Dane zawarte w feedzie są aktualne i poprawne na dzień publikacji. Obowiązują do dnia 31 maja 2026 r., o ile wcześniej nie nastąpi zmiana rozkładu jazdy.
-
-## Dokładność danych
-Uwaga! Część danych została wygenerowana automatycznie. Ze względu na ich ilość, niemożliwe jest ich ręczne przejrzenie. Feed jest udostępniany „tak jak jest” (as is), a jego autor nie ponosi odpowiedzialności za ich kompletność, aktualność ani poprawność.
-
-## Status prawny
-Dane zawarte w tym repozytorium stanowią ponowne wykorzystanie informacji publicznej. Zostały opracowane ręcznie na podstawie dostępnych publicznie rozkładów jazdy.
-Feed jest nieoficjalny i nie jest powiązany z Urzędem Miasta Jarosławia (organizatorem) ani Przedsiębiorstwem Wodociągów i Kanalizacji w Jarosławiu Sp. z o.o. (operatorem).
-
-## Źródła danych
-- informacje o czasie odjazdów: https://pwik-jaroslaw.pl/rozklad-jazdy/
-- informacje o taryfie opłat: https://pwik-jaroslaw.pl/taryfa-oplat/
-
-## Linki
-Link do pobrania najnowszego GTFS:
+## Links
+Latest feed download:
 https://github.com/rozkladnik/gtfs-pwik-jaroslaw/releases/latest/download/gtfs.zip
 
-## Licencja
-Pliki tego repozytorium są licencjonowane na podstawie licencji Creative Commons Attribution 4.0 International (CC BY 4.0).
-Kopia licencji: https://creativecommons.org/licenses/by/4.0/
+## License
+The files contained in this repository are licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+A copy of the license is available at: https://creativecommons.org/licenses/by/4.0/
