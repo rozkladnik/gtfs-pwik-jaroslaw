@@ -2,7 +2,7 @@
 GTFS Schedule for Jarosławska Komunikacja Miejska.
 
 ## Used by:
-(Transit)[https://transitapp.com/]
+[Transit](https://transitapp.com/)
 
 ## Supported features:
 - Agency (agency.txt)
